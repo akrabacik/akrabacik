@@ -1,6 +1,6 @@
 ![MasterHead](https://camo.githubusercontent.com/b4b9424b0f460f15a9cc8d1ff8a4b867e44a893723c34ee694eb221ae14daa5c/68747470733a2f2f7777772e7072616d756b686469676974616c2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30372f4e65772d504e432d416e696d617465642d42616e6e6572732e676966)
 <h1 align="center">Hi 👋, I'm Mert Kuzey Cetin</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+<h3 align="center">A passionate web&cloud developer from Turkey</h3>
 <img align="right" alt="Coding" width="160" src="http://www.boardcon.com/luodan/images/userfiles/img_software.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akrabacik&label=Profile%20views&color=0e75b6&style=flat" alt="akrabacik" /> </p>
