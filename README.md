@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akrabacik&label=Profile%20views&color=0e75b6&style=flat" alt="akrabacik" /> </p>
 
-- 🔭 I’m currently working on **M&M sorter machine**
+- 🔭 I’m currently working on **Android application**
 
 - 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about **C, C++, Azure Cloud Services**
+- 💬 Ask me about **Android, C++, Azure DevOps**
 
 - 📫 How to reach me **kuzeymertcetin@gmail.com**
 
