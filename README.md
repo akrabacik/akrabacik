@@ -1,5 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif)
-![MasterHead]()
+![MasterHead](https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif)
 <h1 align="center">Hi 👋, I'm Mert Kuzey Cetin</h1>
 <h3 align="center">A passionate web & cloud developer from Turkey</h3>
 <img align="right" alt="Coding" width="160" src="http://www.boardcon.com/luodan/images/userfiles/img_software.gif">
